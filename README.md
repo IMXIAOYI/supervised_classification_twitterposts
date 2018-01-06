@@ -1,8 +1,7 @@
 # Classify twitter posts into fact and feel 
 
 ## dataset:  
-train.csv - contains 6,112 posts with labels </br></br>
-
+train.csv - contains 6,112 posts with labels </br>
 test_new.csv - contains 4,076 posts that are unlabeled   
 
 
